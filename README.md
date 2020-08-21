@@ -2,7 +2,7 @@
 
 My name is Sylouan, I'm a french student currently working on Machine Learning, NLP, and more broad Python projects
 
-Here are some ideas to get you started:
+Stuff about me : 
 
 - 🔭 I’m currently working on Smart4L and CodeTwitter
 - 🌱 I’m currently learning NLP at University of Nantes
