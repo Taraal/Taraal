@@ -9,3 +9,6 @@ Stuff about me :
 - 📫 How to reach me: Taral#9447 on Discord
 - 😄 Pronouns: He/him
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taraal)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taraal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
